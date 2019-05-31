@@ -11,3 +11,4 @@
   - Library Directories: opencv/build/x64/vc15/lib
   - Additional Dependencies: opencv_world346d.lib
 ## Docs
+https://github.com/trongnd32/ANPR/blob/master/B%C3%A1o%20c%C3%A1o.pdf
